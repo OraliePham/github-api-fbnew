@@ -1,5 +1,5 @@
 {
-  "name": "@OraliePham/github-api-fbnew",
+  "name": "github-api-fbnew",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@api-fbnew/"
+    "registry": "https://npm.pkg.github.com/@api-fbnew"
   },
   "keywords": [],
   "author": "",
